@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesafioPassword</string>
+    <string name="debil">Contraseña Debil</string>
+    <string name="media">Contraseña Media</string>
+    <string name="fuerte">Contraseña Fuerte</string>
+
+</resources>
