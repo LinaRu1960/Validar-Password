@@ -63,4 +63,12 @@ public class MainActivity extends AppCompatActivity implements IPresenterView {
         binding.textView.setText(R.string.fuerte);
         binding.textView.setBackgroundColor(Color.GREEN);
     }
+
+    @Override
+    public void showVeryStrong() {
+        binding.textView.setText("Contraseña muy Fuerte");
+        binding.textView.setBackgroundColor(Color.BLUE);
+    }
+
+
 }

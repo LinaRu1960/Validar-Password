@@ -7,4 +7,6 @@ public interface IPresenterView {
     void showMedium();
 
     void showStrong();
+
+    void showVeryStrong();
 }

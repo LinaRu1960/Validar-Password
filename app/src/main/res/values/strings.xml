@@ -3,5 +3,5 @@
     <string name="debil">Contraseña Debil</string>
     <string name="media">Contraseña Media</string>
     <string name="fuerte">Contraseña Fuerte</string>
-
+    <string name="muy_fuerte">Contraseña muy Fuerte</string>
 </resources>

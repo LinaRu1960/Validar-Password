@@ -5,7 +5,10 @@ public class Verifier {
     public static final int weak = -1;
     public static final int medium = -2;
     public static final int strong = -3;
+    public static final int veryStrong = -4;
     public static final int min_length = 5;
+
+
 
     public int evaluatePass(String pass) {
         if (!evaluateLenght(pass))

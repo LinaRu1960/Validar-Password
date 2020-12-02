@@ -21,6 +21,8 @@ public void evaluatePass(final String pass){
             break;
             case Verifier.strong:this.view.showStrong();
             break;
+            case Verifier.veryStrong:this.view.showVeryStrong();
+            break;
         }
 }
 }
